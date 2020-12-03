@@ -11,7 +11,8 @@ class Test2 extends React.Component {
           <div>
              <Test/>
              <button onClick={this.test.show}>show</button>
-             <h1>{this.test.sum(2,2)}</h1>
+             <h1>sum(m+n) = {this.test.sum(2,2)}</h1>
+             <h1>dive(a/b) = {this.test.dive(9,3)}</h1>
              <br/>
           </div>
 

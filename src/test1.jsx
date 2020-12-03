@@ -1,13 +1,36 @@
-import react from 'react';
-import test2 from './test2';
+import React from 'react';
 
 
-class Parent extends react.Component{
-    x=()=>{
-        console.log('Alizade');
+class Test extends React.Component {
+   constructor(props){
+      super(props);
+      const name='mhbobe';
+   }
+    
+      sum=(m,n) =>
+      {
+         console.log(m+n)
+         return m+n
+      }
+      dive=(a,b) =>
+      {
+         console.log(a/b)
+         return a/b
+      }
+
+      show=()=>
+      {
+         console.log('hello');
+      }
+     
+  
+    render() {
+       
+       return (
+          <div>
+             <h1>welcome to my site</h1>
+          </div>
+       );
     }
-    render(){
-        return(<div>Mahbobe</div>);
-    }
-}
-export default Parent
+ }
+ export default Test;
