@@ -1,34 +1,23 @@
 import React from 'react';
-
+import './App.css';
+import './style.css';
+import Img from './img/Relaxinghome-rafiki.svg';
 
 class Test extends React.Component {
    constructor(props){
       super(props);
-      const name='mhbobe';
-   }
-    
-      sum=(m,n) =>
-      {
-         console.log(m+n)
-         return m+n
-      }
-      dive=(a,b) =>
-      {
-         console.log(a/b)
-         return a/b
-      }
-
-      show=()=>
-      {
-         console.log('hello');
-      }
      
-  
+   }
     render() {
        
        return (
-          <div>
-             <h1>welcome to my site</h1>
+          <div className="box-top">
+         <div className="text">   
+            <h1 className="bold">روز بخیر!</h1>
+             <h1>شنبه     1399/7/26      07:38  ق.ظ</h1>
+             <h1>+18 سانتی گراد</h1>
+             </div>
+             <div> <img src={Img} className="img"></img></div>
           </div>
        );
     }

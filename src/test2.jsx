@@ -1,21 +1,30 @@
 import React from 'react';
-import Test from './test1';
+import './App.css';
+import './style.css';
+import Img from './img/lamp3.svg';
+import Img2 from './img/tv.svg';
+import Img3 from './img/lamplight.svg';
+import Img4 from './img/socket.svg';
+import Img5 from './img/household.svg';
+import Img6 from './img/del-icon.svg';
+
 class Test2 extends React.Component {
    constructor(props){
       super(props);
-      this.test=new Test();
+     
    }
     render() {
-
+       
        return (
-          <div>
-             <Test/>
-             <button onClick={this.test.show}>show</button>
-             <h1>sum(m+n) = {this.test.sum(2,2)}</h1>
-             <h1>dive(a/b) = {this.test.dive(9,3)}</h1>
-             <br/>
-          </div>
-
+          <div className="box-botton">
+            <div className="icon">
+             <div className="x"> <img src={Img}></img></div>
+             <div className="x"> <img src={Img2}></img></div> 
+             <div className="x"> <img src={Img3}></img></div> 
+             <div className="x"> <img src={Img4}></img></div> 
+             <div className="x"> <img src={Img5}></img></div> 
+            </div>
+            </div>
        );
     }
  }
