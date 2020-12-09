@@ -13,10 +13,8 @@ class Test3 extends React.Component {
        
        return (
           <div className="box-center">
-        
-        <button className="edit"><img src={Img}></img>ویرایش</button>
-        <div>دسترسی سریع</div>
-           
+          <div>دسترسی سریع</div>
+        <button className="edit">ویرایش<img src={Img}></img></button>
           </div>
        );
     }

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="31" height="18.345" viewBox="0 0 31 18.345">
-  <g id="rooms" transform="translate(0 -104.505)">
+  <g id="responsive" transform="translate(0 -104.505)">
     <g id="Group_108" data-name="Group 108" transform="translate(0 104.505)">
       <g id="Group_107" data-name="Group 107">
         <path id="Path_105" data-name="Path 105" d="M10.324,109.263l2.064-2.027-2.249-2.21L10.106,105a1.87,1.87,0,0,0-2.525,0l-.032.031-3.225,3.168v-.714a.906.906,0,0,0-.906-.906H2.533a.906.906,0,0,0-.906.906v3.364L.433,112.017a1.446,1.446,0,0,0,1.922,2.156v6.865a1.812,1.812,0,0,0,1.812,1.812H6.718v-4.085a.906.906,0,0,1,.906-.906H9.46v-1.105a3.11,3.11,0,0,1-1.431-5.236Z" transform="translate(0 -104.505)" fill="#fff"/>
