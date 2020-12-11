@@ -1,8 +1,6 @@
 import React from 'react';
-import Test2 from './test2';
-import './App.css';
-import './style.css';
-import Temper from './img/temperature.svg';
+import './test4.css';
+import Temper from '../../../asset/img/temperature.svg';
 class Test4 extends React.Component {
   
     render() {

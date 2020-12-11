@@ -1,7 +1,6 @@
 import React from 'react';
-import './App.css';
-import './style.css';
-import Img from './img/edit-icon.svg';
+import './quick access.css';
+import Img from '../../asset/img/edit-icon.svg';
 
 
 class Test3 extends React.Component {

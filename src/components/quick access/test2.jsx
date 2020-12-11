@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
-import './style.css';
-import Img from './img/lamp3.svg';
-import Img2 from './img/tv.svg';
-import Img3 from './img/lamplight.svg';
-import Img4 from './img/socket.svg';
-import Img5 from './img/household.svg';
-import Img6 from './img/del-icon.svg';
+import './quick access.css';
+// import './App.css';
+import Img from '../../asset/img/lamp3.svg';
+import Img2 from '../../asset/img/tv.svg';
+import Img3 from '../../asset/img/lamplight.svg';
+import Img4 from '../../asset/img/socket.svg';
+import Img5 from '../../asset/img/household.svg';
+import Img6 from '../../asset/img/del-icon.svg';
 
 class Test2 extends React.Component {
    constructor(props){

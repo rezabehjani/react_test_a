@@ -1,17 +1,15 @@
 import React from 'react';
-import Test4 from './test4';
-import './App.css';
-import './style.css';
-import P from './img/person1.svg';
-import P2 from './img/person2.svg';
-import P3 from './img/person3.svg';
-import P4 from './img/person4.svg';
-import Blue from './img/blue-circle.svg';
-import Creat from './img/create.svg';
+import './test7.css';
+import P from '../../asset/img/person1.svg';
+import P2 from '../../asset/img/person2.svg';
+import P3 from '../../asset/img/person3.svg';
+import P4 from '../../asset/img/person4.svg';
+import Blue from '../../asset/img/blue-circle.svg';
+import Creat from '../../asset/img/create.svg';
 class Test7 extends React.Component {
    constructor(props){
       super(props);
-      this.test=new Test4();
+   
    }
     render() {
 

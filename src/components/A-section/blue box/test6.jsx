@@ -1,12 +1,11 @@
 import React from 'react';
-import Test4 from './test4';
-import './App.css';
-import './style.css';
-import Img from './img/senario-m.svg';
+// import Test4 from './test4';
+import './test6.css';
+import Img from '../../../asset/img/senario-m.svg';
 class Test6 extends React.Component {
    constructor(props){
       super(props);
-      this.test=new Test4();
+      
    }
     render() {
 

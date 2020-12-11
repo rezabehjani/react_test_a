@@ -1,0 +1,50 @@
+
+.Orange-sec{
+    width: 30%;
+    height: 130px;
+    background-image: linear-gradient(#FFDD00, #DB7900);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: 12px;
+  }
+  .text-orange{
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    color: white;
+    font-size: 14px;
+  }
+  .text-orange-2{
+    
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .text-orange-3{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+  
+    
+  }
+  .keyboard_arrow_down {
+  height: 22px;
+  }
+  @media(min-width:480px) and (max-width:769px){
+    .Orange-sec{
+        width: 98%;
+        height: 130px;
+        background-image: linear-gradient(#FFDD00, #DB7900);
+        border-radius: 15px;
+        display: flex;
+        justify-content: space-around;
+        color: white;
+        font-size: 12px;
+      }      
+  }

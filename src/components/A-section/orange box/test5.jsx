@@ -1,13 +1,11 @@
 import React from 'react';
-import Test4 from './test4';
-import './App.css';
-import './style.css';
-import Update from './img/update.svg';
-import Keyboard from './img/keyboard_arrow_down.svg';
+import './test5.css';
+import Update from '../../../asset/img/update.svg';
+import Keyboard from '../../../asset/img/keyboard_arrow_down.svg';
 class Test5 extends React.Component {
    constructor(props){
       super(props);
-      this.test=new Test4();
+   
    }
     render() {
 
