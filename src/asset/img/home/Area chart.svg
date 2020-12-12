@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="939" height="356" viewBox="0 0 939 356">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26a69a"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Area_chart" data-name="Area chart" transform="translate(-37.414 -263.036)">
+    <text id="شنبه" transform="translate(91.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-10.02" y="0">شنبه</tspan></text>
+    <text id="یکشنبه" transform="translate(234.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-14.194" y="0">یکشنبه</tspan></text>
+    <text id="دوشنبه" transform="translate(378.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-15.029" y="0">دوشنبه</tspan></text>
+    <text id="سه_شنبه" data-name="سه شنبه" transform="translate(524.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-18.069" y="0">سه شنبه</tspan></text>
+    <text id="چهارشنبه" transform="translate(669.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-18.369" y="0">چهارشنبه</tspan></text>
+    <text id="پنج_شنبه" data-name="پنج شنبه" transform="translate(808.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-17.651" y="0">پنج شنبه</tspan></text>
+    <text id="جمعه" transform="translate(958.414 616.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.272" y="0">جمعه</tspan></text>
+    <text id="_۰" data-name="۰" transform="translate(37.414 586.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="6.415" y="11">۰</tspan></text>
+    <text id="_۱" data-name="۱" transform="translate(37.414 552.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="7.248" y="11">۱</tspan></text>
+    <text id="_۲" data-name="۲" transform="translate(37.414 522.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.995" y="11">۲</tspan></text>
+    <text id="_۳" data-name="۳" transform="translate(37.414 490.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.578" y="11">۳</tspan></text>
+    <text id="_۴" data-name="۴" transform="translate(37.414 457.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.995" y="11">۴</tspan></text>
+    <text id="_۵" data-name="۵" transform="translate(37.414 425.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.575" y="11">۵</tspan></text>
+    <text id="_۶" data-name="۶" transform="translate(37.414 392.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.995" y="11">۶</tspan></text>
+    <text id="_۷" data-name="۷" transform="translate(37.414 361.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.578" y="11">۷</tspan></text>
+    <text id="_۸" data-name="۸" transform="translate(37.414 328.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.578" y="11">۸</tspan></text>
+    <text id="_۹" data-name="۹" transform="translate(37.414 298.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.995" y="11">۹</tspan></text>
+    <text id="_۱۰" data-name="۱۰" transform="translate(37.414 263.036)" fill="#a3a3a3" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="5.163" y="11">۱۰</tspan></text>
+    <path id="Area_1" d="M72,413.305s109.044,79.721,223.217,79.721,162.97-118.585,278.12-118.585C687.511,374.441,658.515,541,772.689,541H987.343v84H72Z" transform="translate(-10.929 -22.154)" opacity="0.8" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
